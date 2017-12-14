@@ -1,3 +1,4 @@
 git is a version control system
 git is free softwareunder the GPL.
 git has a mutable index call stage.
+git tracks changes.
